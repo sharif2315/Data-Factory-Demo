@@ -1,0 +1,9 @@
+{
+	"name": "First-Data-Factory-Sharif",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e432465-4420-42fa-8c4a-318140e7d480",
+		"tenantId": "2cb40f3e-d237-402c-a357-969a9ed3aa55"
+	}
+}
